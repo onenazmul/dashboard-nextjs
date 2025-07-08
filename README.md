@@ -1,5 +1,6 @@
 ## Overview
-Another awesome and simplified nextjs dashboard UI!
+Another awesome and simplified nextjs dashboard UI! Crafted with ❤️ by Nazmul H
+[https://onenazmul.dev](https://onenazmul.dev)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
